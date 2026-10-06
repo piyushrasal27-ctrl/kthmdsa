@@ -1,0 +1,4 @@
+Amit 21 69.50
+Rahul 20 75.50
+Piyush 18 82.50
+Sneha 19 90.00
